@@ -1,10 +1,12 @@
 /* Simulação primitiva de uma batalha pokemon, primitiva porque eh um combate muito simplificado e com poucas opçoes.
 Da pra adicionar novas funçoes, ate realmente virar uma batalha pokemon igual do jogo, ex: colocar tipagem de pokes, itens, formula de dano, etc.
 Usei a funçao srand(time()) pra simular um rng e fazer o pokemon adversario atacar aleatoriamente, mas provavelmente eh mais facil fazer algo de dois players (um versuszin).
+ideia: seria interessante implementar um botão de "voltar"
 
 Simulation primitive of a pokemon battle, primitive cause its so simplified with few options.
 Can add new functions, till became a real pokemon battle (exactly like the game), for example: poke types, items, berrys, attack dmg formula, etc.
 Used the function srand(time()) to simulate a rng, so opponent poke attack randomly, but probably is easier to write something for two players, a versus.
+idea: could be interesting to implement a "go back" button, would be helpfull to some missclicks
 */
 
 
